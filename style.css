@@ -1,0 +1,56 @@
+body{
+background-color: #000;
+}
+.titulo{
+color: #fff;
+text-align: left;
+padding: 20px;
+letter-spacing: 1.6px;
+font-weight: bolder;
+font-size: 26px;
+}
+.titulos{
+    color: #fff;
+    text-align: left;
+    padding:20px;
+    letter-spacing: 1.6px;
+    font-weight: bolder;
+    font-size:26px;
+     
+    }
+h1{
+color: aliceblue;
+text-transform: capitalize;
+text-align: center;
+letter-spacing: 1.4px;
+}
+h2{
+color: aliceblue;
+text-align: center;
+letter-spacing: 1.4px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.photos{
+margin-top: 60px;
+width: 60%;
+margin-left: auto;
+margin-right: auto;
+}
+.photos p{
+color: aliceblue;
+font-size: 22px;
+text-align:left;
+letter-spacing: 1.4px;
+text-transform: capitalize;
+}
+.photos img{
+width: 100%;
+padding: 20px;
+border-radius: 0.6rem;
+}
+.pagina{
+color: aliceblue;
+padding: 16px;
+text-align: center;
+}
